@@ -1,1 +1,2 @@
-alert("Hi everyone");
+let name = "Juan";
+alert(`Hi everyone ${name}`);
